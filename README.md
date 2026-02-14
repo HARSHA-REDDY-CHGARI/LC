@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0152-maximum-product-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
