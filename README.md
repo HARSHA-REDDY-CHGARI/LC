@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3668-restore-finishing-order](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2161-partition-array-according-to-given-pivot) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
