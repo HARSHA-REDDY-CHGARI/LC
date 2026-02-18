@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
