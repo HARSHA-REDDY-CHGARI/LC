@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0771-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -61,5 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0771-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3668-restore-finishing-order) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
