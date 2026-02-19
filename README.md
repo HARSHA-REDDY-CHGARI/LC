@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
