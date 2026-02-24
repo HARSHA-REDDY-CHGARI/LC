@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/0197-rising-temperature) |
+## Math
+|  |
+| ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/HARSHA-REDDY-CHGARI/LC/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
